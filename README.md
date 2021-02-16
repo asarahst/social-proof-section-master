@@ -1,4 +1,4 @@
-# Social proof section
+# Social proof section 💙
 ## Sobre o projeto:
 
 Desafio concluído do site frontendmentor.
